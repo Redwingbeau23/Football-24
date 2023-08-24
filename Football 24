@@ -6199,8 +6199,11 @@
 			"confName": "MAC"
 		}
 	],
-	"bowlGames": [
+	"bowlGames": [{
 		"Rose Bowl",
+"tieIn": {
+"first": "Big Ten",
+"second": "Pacific Athletic"
 		"Cotton Bowl",
 		"Orange Bowl",
 		"Fiesta Bowl",
